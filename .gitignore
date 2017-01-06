@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+ut-zap50k-images
+logs
